@@ -1,2 +1,2 @@
 ### a place for things
-[Extremophile Studios](www.extremophile.studio)
+[Extremophile Studios](http://www.extremophile.studio/)
