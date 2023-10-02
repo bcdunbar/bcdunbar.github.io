@@ -7,6 +7,6 @@ export default function About() {
       <div>
         Back to <Link href="/">Home</Link>
       </div>
-    </>
+    </> 
   )
 }
